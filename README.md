@@ -15,7 +15,8 @@
 ### Bu proje daha yapım aşamasında ve tamamlanmamıştır.
 
 ## Görseller:
-<img width="600" height="300" alt="anasayfa" src="https://github.com/user-attachments/assets/6637e5ce-2670-4c00-a040-0ec0dc646105" />
-<img width="600" height="300" alt="panel" src="https://github.com/user-attachments/assets/c0a267d4-bc7f-41e6-a4eb-2bcba7b26b0e" />
-<img width="600" height="300" alt="panel2" src="https://github.com/user-attachments/assets/b4ff2fbf-cecc-45a2-9a9a-db7432ea4292" />
-<img width="600" height="300" alt="panelqr" src="https://github.com/user-attachments/assets/807b7f71-fab1-461f-be63-7e311c3a80f5" />
+<img width="600" height="300" alt="s_anasayfa" src="https://github.com/user-attachments/assets/aed4df42-861f-4ac4-a9d8-6422a79556f3" />
+<img width="600" height="300" alt="s_ilansayfa" src="https://github.com/user-attachments/assets/d3a5aa14-e4af-4442-b487-30ed211bbaa1" />
+<img width="600" height="300" alt="s_satinal" src="https://github.com/user-attachments/assets/6efa0d48-1fe6-4df0-830b-3392c35826e1" />
+<img width="600" height="300" alt="s_panel" src="https://github.com/user-attachments/assets/f997919f-82e0-4518-ac3b-2af3ab740462" />
+
